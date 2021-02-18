@@ -1,4 +1,8 @@
 # git-auto-push
+
+<p1> WINDOWS USERS <p1>
+<p2> This does not work on windows on linux <p2> 
+
 This is the sh script I wrote to auto push, just read the comments in the file everything should make sense. After you have configured the settings in the script.
 Just do this, 
 
