@@ -1,11 +1,11 @@
 #! /bin/bash
 
 # commit user info
-USER_NAME=Unidentified539
-USER_EMAIL=solomonaziel9@gmail.com
+USER_NAME=
+USER_EMAIL=
 
 # repository root path
-DIR=/home/theprogrmmer/Java-Practice-Notes
+DIR=
 
 # target dir or file path
 #TARGETS=2018/1208-osc
