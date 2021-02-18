@@ -1,6 +1,6 @@
 # git-auto-push
 
-<p1> WINDOWS USERS <p1>
+<h1> WINDOWS USERS <h1>
   
   
 <p2> This does not work on windows on linux <p2> 
