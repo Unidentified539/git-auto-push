@@ -1,9 +1,8 @@
 # git-auto-push
 
-<h1> WINDOWS USERS </h1>
   
 
-This does not work on windows on linux < 
+Disclaimer: This does not work on windows on linux < 
 
 
 
