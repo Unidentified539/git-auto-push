@@ -2,7 +2,7 @@
 
   
 
-Disclaimer: This does not work on windows on linux < 
+Disclaimer: This does not work on windows  
 
 
 
